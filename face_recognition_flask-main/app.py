@@ -170,7 +170,7 @@ def train_model():
 #         print("Unable to retrieve current location.")
 def add_attendance_to_sheet(name, userid, latitude, longitude):
     scope = ['https://spreadsheets.google.com/feeds', 'https://www.googleapis.com/auth/drive']
-    creds = ServiceAccountCredentials.from_json_keyfile_name('face_recognition_flask-main\\face_recognition_flask-main\\tough-ivy-422315-h4-e95dd47b045f.json', scope)
+    creds = ServiceAccountCredentials.from_json_keyfile_name('C:\\Users\\jones\\Downloads\\face_recognition_flask-main\\tough-ivy-422315-h4-e95dd47b045f.json', scope)
     client = gspread.authorize(creds)
     sheet = client.open_by_key('1ynwgc9Yen5LWPMpl-HFMTJ3HiGHH763Ejf8VBRei_mw').sheet1
     current_time = datetime.now().strftime("%H:%M:%S")
