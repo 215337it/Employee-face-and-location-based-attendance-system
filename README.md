@@ -1,8 +1,4 @@
-I'll take a look at the file and then create a `README.md` based on its contents. Let's review the file.
 
-Based on the content of your `app.py` file, here’s a draft for your `README.md` file:
-
----
 
 # Employee Face and Location Based Attendance System
 
