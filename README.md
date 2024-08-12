@@ -1,7 +1,18 @@
 
 
 # Employee Face and Location Based Attendance System
+## Screenshots
 
+### Login Screen
+![Login Screen](.screenshots/loginscreen.png)
+### Register Screen
+![Register Screen](./screenshots/registerscreen.png)
+
+### Attendance Confirmation
+![Attendance Confirmation](./screenshots/attendanceconfirmation.png)
+
+### Google Sheets Record
+![Google Sheets Record](./screenshots/googlesheet.png)
 ## Overview
 
 This system is designed to streamline employee attendance tracking by using facial recognition and location verification. Built with Flask and integrated with Google Sheets for data management, it ensures accurate recording of employee check-ins and check-outs based on both face recognition and geolocation.
@@ -74,15 +85,4 @@ This system is designed to streamline employee attendance tracking by using faci
 
 Feel free to contribute to this project by creating a pull request or submitting issues. Contributions are always welcome!
 
-## Screenshots
 
-### Login Screen
-![Login Screen](.screenshots/loginscreen.png)
-### Register Screen
-![Register Screen](./screenshots/registerscreen.png)
-
-### Attendance Confirmation
-![Attendance Confirmation](./screenshots/attendanceconfirmation.png)
-
-### Google Sheets Record
-![Google Sheets Record](./screenshots/googlesheet.png)
