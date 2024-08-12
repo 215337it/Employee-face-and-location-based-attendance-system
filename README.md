@@ -4,7 +4,7 @@
 ## Screenshots
 
 ### Login Screen
-![Login Screen](.screenshots/loginscreen.png)
+![Login Screen](./screenshots/loginscreen.png)
 ### Register Screen
 ![Register Screen](./screenshots/registerscreen.png)
 
