@@ -77,16 +77,12 @@ Feel free to contribute to this project by creating a pull request or submitting
 ## Screenshots
 
 ### Login Screen
-![Login Screen](./Employee-face-and-location-based-attendance-system
-/screenshots/loginscreen.png)
+![Login Screen](.screenshots/loginscreen.png)
 ### Register Screen
-![Register Screen](./Employee-face-and-location-based-attendance-system
-/screenshots/registerscreen.png)
+![Register Screen](./screenshots/registerscreen.png)
 
 ### Attendance Confirmation
-![Attendance Confirmation](./Employee-face-and-location-based-attendance-system
-/screenshots/attendanceconfirmation.png)
+![Attendance Confirmation](./screenshots/attendanceconfirmation.png)
 
 ### Google Sheets Record
-![Google Sheets Record](./Employee-face-and-location-based-attendance-system
-/screenshots/googlesheet.png)
+![Google Sheets Record](./screenshots/googlesheet.png)
